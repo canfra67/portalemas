@@ -1,7 +1,7 @@
 package com.portalemas.controller;
 
 public class autenticazione {
-	private String variabile = ""; 
+	private String variabile = "aa"; 
 	private int numero = 6;
 
 }
