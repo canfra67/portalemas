@@ -52,7 +52,7 @@ public class User implements UserDetails {
     public Professionista getProfessionista() { return professionista; }
     public void setProfessionista(Professionista professionista) { this.professionista = professionista; }
 
-    
+     
     @Override
     public boolean isAccountNonExpired() { return true; }
 
